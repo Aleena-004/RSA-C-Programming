@@ -6,7 +6,7 @@ void change(int x)
 	x=10;
 	printf("inside function= %d\n",x);
 }
-int main()
+void main()
 {
 	int a=20;
 	printf("BEFORE FUNCTION CALL = %d\n",a);
